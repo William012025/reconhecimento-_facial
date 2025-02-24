@@ -27,8 +27,10 @@ Você pode usar o serviço de IA do Azure AI com um recurso multisserviços de s
 ---
 
 ## Observações
-- Certifique-se de utilizar uma conta com permissões adequadas na assinatura do Azure.
-- Para suporte adicional, consulte a [documentação oficial do Azure](https://learn.microsoft.com/azure/).
+
+Uma imagem de uma mulher tirando uma foto de uma garota em um supermercado, o resto estava coberto por uma folha de palmeira , mesmo assim conseguiu detectar:
+
+Uma mulher tirando uma foto de uma garota em um supermercado
 
 ---
 
