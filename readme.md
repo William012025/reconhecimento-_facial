@@ -30,7 +30,7 @@ Você pode usar o serviço de IA do Azure AI com um recurso multisserviços de s
 
 Uma imagem de uma mulher tirando uma foto de uma garota em um supermercado, o resto estava coberto por uma folha de palmeira , mesmo assim conseguiu detectar:
 
-Uma mulher tirando uma foto de uma garota em um supermercado
+"Uma mulher tirando uma foto de uma garota em um supermercado"
 
 ---
 
